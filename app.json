@@ -1,0 +1,14 @@
+﻿{
+    "name": "yuitr",
+    "description": "poiuk",
+    "logo":"opiuh",
+    "keywords": ["jkhg"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/yusfyt/ihiug",
+    "stack": "container"
+}
